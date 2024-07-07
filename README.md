@@ -1,4 +1,4 @@
-Overview of Inventory Management System
+Overview of Inventory Management System (Sample code is provided in main file)
 Purpose: This code implements an inventory management system for handling food items, including functionalities for adding, editing, deleting, and searching items, as well as generating reports based on expiry dates and stock levels.
 
 Initialization (__init__ method):
